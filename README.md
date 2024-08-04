@@ -40,7 +40,7 @@
 ###
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="linkedin.com/in/leonardo-bento-937a2024a/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin logo"></a>
+  <a href="www.linkedin.com/in/leonardo-bento-937a2024a"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin logo"></a>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" height="35">
 </div>
 
