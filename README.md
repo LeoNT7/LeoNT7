@@ -25,11 +25,11 @@
 
 ###
 <div align="center">
+<a href="https://www.linkedin.com/in/leonardo-bento-937a2024a/" target="_blank" rel="noopener noreferrer">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin logo"></a>
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-bento-937a2024a/" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
          height="40" style="margin-right: 10px;" 
          alt="Ícone do LinkedIn">
