@@ -4,7 +4,7 @@
  <div align="center">
   
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Hand+Pr&weight=600&size=14&letterSpacing=letter-spacing%3A+1px;&duration=2000&pause=1000&color=47E7F7&center=true&random=true&width=500&lines=Do+console.log+ao+mundo!+%F0%9F%8C%8E%F0%9F%9A%80;Ainda+no+come%C3%A7o%2C+mas+com+muita+vontade+de+chegar+longe+%F0%9F%92%AA%F0%9F%92%BB;Pequenos+commits%2C+grandes+conquistas+%F0%9F%94%A5;Caf%C3%A9+e+linhas+de+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;Aprendendo+uma+linha+de+c%C3%B3digo+por+vez+%F0%9F%93%88;Meu+c%C3%B3digo+ainda+n%C3%A3o+%C3%A9+perfeito%2C+mas+meu+esfor%C3%A7o+%C3%A9+constante+%F0%9F%8C%B1;Persist%C3%AAncia+%C3%A9+meu+framework+favorito+%E2%9D%A4%EF%B8%8F;Do+b%C3%A1sico+ao+avan%C3%A7ado...+um+commit+de+cada+vez+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=800&size=15&letterSpacing=letter-spacing%3A+1px;&duration=3000&pause=1300&color=2DB4FF&center=true&random=true&width=500&lines=Do+console.log+ao+mundo!+%F0%9F%8C%8E%F0%9F%9A%80;Ainda+no+come%C3%A7o%2C+mas+com+muita+vontade+de+chegar+longe+%F0%9F%92%AA%F0%9F%92%BB;Pequenos+commits%2C+grandes+conquistas+%F0%9F%94%A5;Caf%C3%A9+e+linhas+de+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;Aprendendo+uma+linha+de+c%C3%B3digo+por+vez+%F0%9F%93%88;Meu+c%C3%B3digo+ainda+n%C3%A3o+%C3%A9+perfeito%2C+mas+meu+esfor%C3%A7o+%C3%A9+constante+%F0%9F%8C%B1;Persist%C3%AAncia+%C3%A9+meu+framework+favorito+%E2%9D%A4%EF%B8%8F;Do+b%C3%A1sico+ao+avan%C3%A7ado...+um+commit+de+cada+vez+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 
   
