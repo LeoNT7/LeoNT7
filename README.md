@@ -4,7 +4,7 @@
  <div align="center">
   
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&letterSpacing=letter-spacing%3A+1px;&duration=3000&pause=1300&color=2DB4FF&center=true&random=true&width=500&lines=Um+commit+de+cada+vez%2C+rumo+ao+meu+lugar+na+tecnologia+%F0%9F%92%BB%F0%9F%92%85;Persist%C3%AAncia+%C3%A9+minha+linguagem+favorita+%E2%9D%A4%EF%B8%8F;Pequenos+commits%2C+grandes+conquistas+%F0%9F%94%A5;Caf%C3%A9+e+linhas+de+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;Aprendendo+uma+linha+de+c%C3%B3digo+por+vez+%F0%9F%93%88;C%C3%B3digo+com+bug+tamb%C3%A9m+ensina%2C+e+eu+sigo+aprendendo+%F0%9F%8C%B1;Persist%C3%AAncia+%C3%A9+meu+framework+favorito+%E2%9D%A4%EF%B8%8F;Estagi%C3%A1ria+em+constru%C3%A7%C3%A3o%2C+desenvolvedora+em+ascens%C3%A3o+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=15&letterSpacing=letter-spacing%3A+1px;&duration=3000&pause=1300&color=2DB4FF&center=true&random=true&width=500&lines=Um+commit+de+cada+vez%2C+rumo+ao+meu+lugar+na+tecnologia+%F0%9F%92%BB%F0%9F%92%85;Persist%C3%AAncia+%C3%A9+minha+linguagem+favorita+%E2%9D%A4%EF%B8%8F;Pequenos+commits%2C+grandes+conquistas+%F0%9F%94%A5;Caf%C3%A9+e+linhas+de+c%C3%B3digo+%E2%98%95%F0%9F%92%BB;Aprendendo+uma+linha+de+c%C3%B3digo+por+vez+%F0%9F%93%88;C%C3%B3digo+com+bug+tamb%C3%A9m+ensina%2C+e+eu+sigo+aprendendo+%F0%9F%8C%B1;Persist%C3%AAncia+%C3%A9+meu+framework+favorito+%E2%9D%A4%EF%B8%8F;Estagi%C3%A1rio+em+constru%C3%A7%C3%A3o%2C+desenvolvedor+em+ascens%C3%A3o+%F0%9F%93%88)](https://git.io/typing-svg)
 
 
   
@@ -33,7 +33,7 @@
 
 <div align="center" >
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,notion,vscode,windows,linux)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,notion,vscode)](https://skillicons.dev) 
 
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="40">
 </div>
