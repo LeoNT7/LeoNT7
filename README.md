@@ -19,12 +19,7 @@
 <div align="center">
 
 
-
-
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ly7v6vrcmlnvwrfvm4t3z2kmm4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ly7v6vrcmlnvwrfvm4t3z2kmm4&redirect=true)
-
-
 
   
 </div>
@@ -34,7 +29,6 @@
  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,notion,vscode)](https://skillicons.dev) 
 
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="40">
 </div>
 
 
@@ -44,8 +38,6 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
          height="40" style="margin-right: 10px;" 
-         alt="Ícone do LinkedIn">
-  </a>
 </div>
 </main>
 
