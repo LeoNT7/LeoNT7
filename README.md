@@ -14,15 +14,17 @@
 </div>
 
 
-</div>    
-
-<div align="center">
+   
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ly7v6vrcmlnvwrfvm4t3z2kmm4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ly7v6vrcmlnvwrfvm4t3z2kmm4&redirect=true)
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ly7v6vrcmlnvwrfvm4t3z2kmm4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ly7v6vrcmlnvwrfvm4t3z2kmm4&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true&bar_color=e946ec">
+  </a>
+</p>
   
-</div>
+
 
 
 <div align="center" >
